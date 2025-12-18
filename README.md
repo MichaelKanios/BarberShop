@@ -1,2 +1,2 @@
 # BarberShop
-Barber Shop with React ,Vite,Routerv7,Tailwindcss,Supabase. 
+Barber Shop with React ,Vite,Routerv7,Bootstrap,Supabase. 
