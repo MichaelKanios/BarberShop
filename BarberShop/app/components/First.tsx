@@ -15,17 +15,7 @@ const First = () => {
   return (
     
     <div className="container-fluid">
-      <div className="row">
- <button
-        type="button"
-        onClick={() => setMenuOpen((prev) => !prev)}
-        className="navbar-toggler d-md-none collapsed"
-        aria-label="Toggle Menu"
-      >
-        {menuOpen ? <FaTimes /> : <FaBars />}
-      </button>
-
-       
+      <div className="row">       
 
         <nav id="sidebarMenu" className="col-md-4 col-lg-3 d-md-block sidebar collapse p-0">
          <SideBar/>

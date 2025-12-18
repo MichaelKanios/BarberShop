@@ -254,7 +254,7 @@ strong {
 }
 
 .logo-image {
-  width: 154px;
+  width: 200px;
   height: auto;
   margin-bottom: 70px;
 }
@@ -284,7 +284,7 @@ strong {
   padding: 0;
   cursor: pointer;
   margin: 25px;
-  width: 55px;
+  width:55px;
   height: 55px;
   outline: none;
 }
@@ -839,5 +839,7 @@ strong {
   .booking-form {
     padding: 35px;
   }
-}
+  
+  }
+
 
